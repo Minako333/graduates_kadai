@@ -191,6 +191,9 @@
            <!-- 卒業生の声 -->
     
               <div class="col-lg-6 col-md-6 col-sx-12 news_col">
+                <br>
+                <br>
+                <br>
             <div class="home_title">graduates</div>
             <div class="home_title_sub">卒業生の声</div>
                 <?php
@@ -290,7 +293,7 @@
               </div>
               <div class="course_footer">
                 <div class="course_footer_content d-flex flex-row align-items-center justify-content-start">
-                  <div class="course_price ml-auto">詳細を見る</div>
+                  
                   <div class="course_price ml-auto"><a href="<?php the_permalink(); ?>">詳細を見る</a></div>
                 </div>
               </div>
